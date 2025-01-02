@@ -1,3 +1,5 @@
+# ENGLISH VERSION
+
 # Code of Conduct
 
 ## 1. Purpose
@@ -53,7 +55,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. mail@Bourriquet.ch.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
 
 
@@ -61,9 +63,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Bourriquet Open Source Team with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Bourriquet with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 8. Scope
 
@@ -73,7 +73,6 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-mail@Bourriquet.ch
 
 ## 10. License and attribution
 
@@ -82,3 +81,85 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
+
+###############################################################
+# VERSION FRANÇAISE
+
+# Code de conduite
+
+## 1. Objectif
+
+L'un des principaux objectifs de Bourriquet est d'inclure le plus grand nombre possible de contributeurs, aux origines les plus variées et les plus diverses. À ce titre, nous nous engageons à fournir un environnement amical, sûr et accueillant pour tous, indépendamment du sexe, de l'orientation sexuelle, des capacités, de l'origine ethnique, du statut socio-économique et de la religion (ou de l'absence de religion).
+
+Ce code de conduite décrit nos attentes à l'égard de tous ceux qui participent à notre communauté, ainsi que les conséquences d'un comportement inacceptable.
+
+Nous invitons tous ceux qui participent au Bourriquet à nous aider à créer des expériences sûres et positives pour tous.
+
+## 2. Citoyenneté Open Source
+
+L'un des objectifs complémentaires de ce code de conduite est d'accroître la citoyenneté open source en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
+
+Les communautés sont le reflet des sociétés dans lesquelles elles existent et une action positive est essentielle pour contrecarrer les nombreuses formes d'inégalité et d'abus de pouvoir qui existent dans la société.
+
+Si vous voyez quelqu'un qui fait un effort supplémentaire pour s'assurer que notre communauté est accueillante, amicale et encourage tous les participants à contribuer pleinement, nous voulons le savoir.
+
+## 3. Comportement attendu
+
+Les comportements suivants sont attendus et demandés à tous les membres de la communauté :
+
+* Participer de manière authentique et active. Ce faisant, vous contribuez à la santé et à la longévité de cette communauté.
+* Faire preuve de considération et de respect dans vos paroles et vos actions.
+* Tenter la collaboration avant le conflit.
+* S'abstenir de tout comportement ou discours dégradant, discriminatoire ou harcelant.
+* Soyez attentif à votre environnement et aux autres participants. Alertez les responsables de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou des violations du présent code de conduite, même si elles semblent sans conséquence.
+* N'oubliez pas que les lieux où se déroulent les événements communautaires peuvent être partagés avec des membres du public ; soyez respectueux de tous les usagers de ces lieux.
+
+## 4. Comportement inacceptable
+
+Les comportements suivants sont considérés comme du harcèlement et sont inacceptables au sein de notre communauté :
+
+* La violence, les menaces de violence ou les propos violents à l'encontre d'une autre personne.
+* Blagues et langage sexistes, racistes, homophobes, transphobes, capacitistes ou autrement discriminatoires.
+* Affichage de matériel sexuellement explicite ou violent.
+* Publier ou menacer de publier des informations d'identification personnelle d'autres personnes (« doxing »).
+* Insultes personnelles, en particulier celles liées au sexe, à l'orientation sexuelle, à la race, à la religion ou au handicap.
+* Photographie ou enregistrement inappropriés.
+* un contact physique inapproprié. Vous devez obtenir le consentement d'une personne avant de la toucher.
+* Attention sexuelle importune. Cela inclut les commentaires ou les plaisanteries à caractère sexuel, les attouchements inappropriés, les tripotages et les avances sexuelles non désirées.
+* L'intimidation délibérée, la traque ou le suivi (en ligne ou en personne).
+* La défense ou l'encouragement de l'un des comportements susmentionnés.
+* Perturbation durable d'événements communautaires, y compris de conférences et de présentations.
+
+## 5. Conséquences d'un comportement inacceptable
+
+Aucun comportement inacceptable de la part d'un membre de la communauté, y compris les parrains et les personnes ayant un pouvoir de décision, ne sera toléré.
+
+Toute personne à qui l'on demande de mettre fin à un comportement inacceptable est censée s'y conformer immédiatement.
+
+Si un membre de la communauté adopte un comportement inacceptable, les organisateurs de la communauté peuvent prendre toute mesure qu'ils jugent appropriée, pouvant aller jusqu'à une interdiction temporaire ou une expulsion permanente de la communauté sans avertissement (et sans remboursement dans le cas d'un événement payant).
+
+## 6. Lignes directrices en matière de signalement
+
+Si vous êtes sujet ou témoin d'un comportement inacceptable, ou si vous avez d'autres préoccupations, veuillez en informer un organisateur de la communauté dès que possible.
+En outre, les organisateurs communautaires sont à la disposition des membres de la communauté pour les aider à entrer en contact avec les forces de l'ordre locales ou pour aider les personnes victimes de comportements inacceptables à se sentir en sécurité. Dans le cadre d'événements en personne, les organisateurs fourniront également des escortes si la personne en détresse le souhaite.
+
+## 7. Traitement des griefs
+
+Si vous croyez avoir été accusé à tort ou injustement d'avoir enfreint le présent code de conduite, vous devez en aviser Bourriquet en décrivant brièvement votre grief. Votre grief sera traité conformément à nos politiques en vigueur.
+
+## 8. Champ d'application
+
+Nous attendons de tous les participants à la communauté (contributeurs, rémunérés ou non, sponsors et autres invités) qu'ils respectent le présent code de conduite dans toutes les activités de la communauté - en ligne et en personne - ainsi que dans toutes les communications individuelles relatives aux affaires de la communauté.
+
+Ce code de conduite et les procédures qui s'y rapportent s'appliquent également aux comportements inacceptables survenant en dehors du cadre des activités de la communauté, lorsque ces comportements sont susceptibles de nuire à la sécurité et au bien-être des membres de la communauté.
+
+## 9. Coordonnées
+
+
+## 10. Licence et attribution
+
+Ce code de conduite est distribué sous une [licence Creative Commons Attribution-ShareAlike] (http://creativecommons.org/licenses/by-sa/3.0/).
+
+Certaines parties du texte sont dérivées du [Code de conduite de Django](https://www.djangoproject.com/conduct/) et de la [Politique anti-harcèlement du féminisme geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+Consulté le 22 novembre 2016 sur [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
