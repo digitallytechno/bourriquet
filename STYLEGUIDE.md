@@ -1,4 +1,4 @@
-## ENGLISH VERSION *********************************************************************
+# ENGLISH VERSION *********************************************************************
 
  Bourriquet
  Copyright (C) digitallytechno
@@ -709,7 +709,7 @@ give additional information about implications or warnings.
 ############################################################################
 
 
-## VERSION FRANÇAISE ########################################### ###########################################
+# VERSION FRANÇAISE ########################################### 
 
 Bourriquet
  Copyright (C) digitallytechno
