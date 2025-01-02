@@ -2,7 +2,7 @@
 <img src="www/main.png" width=300 align="right" />
 
 
-## ENGLISH VERSION 
+# ENGLISH VERSION 
 
 Bourriquet is a free P2P file sharing application written for computer system MorphOS. 
 It supports a configurable user interface based on the Magic User Interface (MUI) framework.
@@ -32,7 +32,7 @@ Bourriquet is distributed and license under the GNU General Public License Versi
 See [contributors list](https://github.com/digitallytechno/bourriquet/graphs/contributors) for all contributions over all years.
 
 
-## VERSION FRANÇAISE ########################################################################################################################
+# VERSION FRANÇAISE ########################################################################################################################
 
 
 Bourriquet est une application libre de partage de fichiers P2P écrite pour le système MorphOS. Il supporte une interface utilisateur configurable basée sur le framework MUI (Magic User Interface).
