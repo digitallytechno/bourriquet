@@ -1,4 +1,4 @@
-## ENGLISH VERSION *********************************************************************
+# ENGLISH VERSION *********************************************************************
 
  Bourriquet
  Copyright (C) digitallytechno
@@ -709,16 +709,15 @@ give additional information about implications or warnings.
 ############################################################################
 
 
-## VERSION FRANÇAISE ########################################### ###########################################
+# VERSION FRANÇAISE ###########################################
 
 Bourriquet
  Copyright (C) digitallytechno
 
- Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la licence publique générale GNU (GNU General Public License) telle qu'elle est publiée
- et/ou le modifier selon les termes de la Licence Publique Générale GNU telle que publiée par la
+ Ce programme est un logiciel libre; Vous pouvez le redistribuer et/ou le modifier selon les termes de la licence
+ publique générale GNU (GNU General Public License) telle qu'elle est publiée par la
  la Free Software Foundation; soit la version 2 de la licence, soit (à votre choix) toute version ultérieure.
- (à votre choix) toute version ultérieure.
-
+ 
  Ce programme est distribué dans l'espoir qu'il sera utile,
  mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de
  MERCHANTABILITÉ ou d'ADAPTATION À UN USAGE PARTICULIER.  Voir la
