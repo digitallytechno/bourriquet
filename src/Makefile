@@ -222,8 +222,8 @@ endif
 # Pour lier la cible
 #################################################
 $(TARGET): $(addprefix $(OBJDIR)/,$(OBJS))
-	@echo "  LD $@.debug"
-	@$(CC) $(LDFLAGS) -o $@.debug $(addprefix $(OBJDIR)/,$(OBJS)) $(LDLIBS) -Wl,--cref,-M,-Map=$@.map
+	@echo "  LD $@"
+	@$(CC) $(LDFLAGS) -o $@ $(addprefix $(OBJDIR)/,$(OBJS)) $(LDLIBS) -Wl,--cref,-M,-Map=$@.map
 #################################################
 # Pour cr�er un fichier .dump
 #################################################
@@ -236,7 +236,7 @@ dump:
 .PHONY: clean
 clean:
 	@echo "  CLEAN"
-	@$(RM) $(TARGET) $(TARGET).debug $(TARGET).map $(addprefix $(OBJDIR)/,$(OBJS)) gitrev.h
+	@$(RM) $(TARGET) $(TARGET) $(TARGET).map $(addprefix $(OBJDIR)/,$(OBJS)) gitrev.h
 #################################################
 # Nettoyage de tout y compris le r�pertoire .obj
 #################################################
@@ -266,7 +266,7 @@ $(MUIDIR)/Classes.h: $(MUIDIR)/Classes.crc
 $(MUIDIR)/Classes.c: $(MUIDIR)/Classes.crc
 
 $(MUIDIR)/Classes.crc: $(GENCLASSES)/GenClasses $(MUIDIR)/ClassesExtra.h Locale.h $(filter-out $(MUIDIR)/Classes.c, $(addprefix $(MUIDIR)/, $(subst .o,.c, $(MUIOBJS))))
-	@echo "  GN GenClasses"
+	@echo "GN GenClasses"
 	@$(GENCLASSES)/GenClasses mui -bBourriquet -gpl -storm -iClassesExtra.h,ClassesSetup.h -qdl
 
 $(GENCLASSES)/GenClasses: $(GENCLASSES)/gc.c $(GENCLASSES)/gc.h \
