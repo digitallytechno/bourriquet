@@ -1,0 +1,552 @@
+;## version $VER: Bourriquet.catalog 1.00 (28.09.2024)
+;## language english 
+;## codeset 0
+;
+MSG_MA_PROJECT (//)
+Project
+;
+MSG_MA_ABOUT (//)
+About Bourriquet...
+;
+MSG_MA_ABOUT_MUI (//)
+About MUI...
+;
+MSG_PROJECT_ABOUT (//)
+About Bourriquet...
+;
+MSG_SETTINGS_MUI (//)
+M\000MUI...
+;
+MSG_HIDE (//)
+Hide
+;
+MSG_QUIT (//)
+Quit
+;
+MSG_COPYRIGHT1 (//)
+\nBourriquet \n (Emule for MorphOS)\nCopyright © 2024 digitally\n
+;
+MSG_VERSION (//)
+Version Bourriquet
+;
+MSG_COMPILATION_DATE (//)
+Compilation date :
+;
+MSG_COPYRIGHT2 (//)
+This program is free software\n
+;
+MSG_USED_SOFTWARE (//)
+This program is free software\n
+;
+MSG_APPLICATION_DESCRIPTION (//)
+Emule for MorphOS
+;
+MSG_OK (//)
+_Ok
+;
+MSG_CANCEL (//)
+_Cancel
+;
+MSG_YES (//)
+_Yes
+;
+MSG_NO (//)
+_No
+;
+MSG_CREATING_GUI (//)
+Creating user interface...
+;
+MSG_INIT_LIBS (//)
+Initialising libraries...
+;
+MSG_INIT_TIMER (//)
+Initialize timer
+;
+MSG_LOADING_GFX (//)
+Loading graphics...
+;
+MSG_LOADING_CONFIG (//)
+Loading configuration...
+;
+MSG_NO_MCC (//)
+Couldnt open MUI custom class %s V%lu.%lu.\nThe class is not installed.
+;
+MSG_MCC_OLD (//)
+Couldnt open MUI custom class %s V%lu.%lu.\n\nCurrently installed is V%lu.%lu, please upgrade!
+;
+MSG_MCC_IN_USE (//)
+Couldnt open MUI custom class %s V%lu.%lu.\n\nCurrently installed is V%lu.%lu, please upgrade!
+;
+MSG_RETRY_QUIT_GAD (//)
+Try again|Quit
+;
+MSG_OPENING_GUI (//)
+Opening user interface...
+;
+MSG_QuitANGReq (//)
+Do you really want to quit Bourriquet ?
+; 
+MSG_CONFIRM_REQ (//)
+Confirmation request
+;
+MSG_YES_NO_REQ (//)
+*_Yes|_No
+;
+MSG_WINDOW_TITLE (//)
+Bourriquet %s
+;
+MSG_BT_QUIT (//)
+Quit
+;
+MSG_ERROR_STARTUP (//)
+Error during startup
+;
+MSG_ERROR_LIB (//)
+Cant open %s, version v%lu.%lu
+; LIBRARY_NAME, LIBRARY_VERSION, LIBRARY_REVISION
+;
+MSG_ERROR_MUI_APPLICATION (//)
+Bourriquet cant create a apllication
+;
+MSG_ERROR_CLASSES (//)
+Bourriquet cant create MUI custom classes
+;
+MSG_ERROR_TIMER (//)
+Bourriquet cant init timer
+;
+MSG_ERROR_TASK (//)
+Bourriquet cant init task
+;
+MSG_ERROR_SIGNAL (//)
+Bourriquet cant init signal
+;
+MSG_ERROR_METHODSTASK (//)
+Bourriquet cant init methodtask
+;
+MSG_ERROR_THREADS (//)
+Bourriquet cant init threads
+;
+MSG_ERROR_LIB_URL (//)
+Bourriquet cant find url lib %s, V%lu.%lu %s
+; LIBRARY_NAME, LIBRARY_VERSION, LIBRARY_REVISION, URL_HOMEPAGE
+;
+MSG_ERROR_CREATE_SEMAPHORE (//)
+Bourriquet cant create semaphore
+;
+MSG_RETRY_HOMEPAGE_QUIT_GAD (//)
+Quit home page
+;
+MSG_ABOUT_CURRENT_DEVELOPERS (//)
+Current Developers:
+;
+MSG_ABOUT_CONTRIBUTORS (//)
+Contributors:
+;
+MSG_ABOUT_LOCALIZATION_CONTRIBUTORS (//)
+Localization Contributors:
+;
+MSG_ABOUT_GPL (//)
+This program is free software; youre welcome to\ndistribute and or modify it under the terms of the\nGNU Public License. See the enclosed documents for\nmore details.
+;
+MSG_ABOUT_3RD_PARTY_SOFTWARE (//)
+This program uses the following third party software:
+;
+MSG_ABOUT_KITTY_NEWS (//)
+The latest news about Bourriquet can be found at the\nBourriquet Support Site at \\0335http:///\\033n
+;
+MSG_ABOUTKITTY (//)
+About Bourriquet
+;
+MSG_SHUTDOWN (//)
+Shutting down Bourriquet...
+;
+MSG_THREAD_EXIT_WARNING_TITLE (//)
+Bourriquet warning...
+;
+MSG_THREAD_EXIT_WARNING (//)
+While trying to cleanup Bourriquet still running sub threads\nhave been found.\nDo you want to retry to quit Bourriquet or ignore the still\nrunning sub thread (which could end up in later crashes)?
+;
+MSG_THREAD_EXIT_WARNING_BT (//)
+_Retry|_Ignore
+;
+MSG_DB_CONNECT (//)
+Connect
+;
+MSG_DB_DISCONNECT (//)
+Disconnect
+;
+MSG_DB_SERVER (//)
+Server
+;
+MSG_DB_TRANSFER (//)
+Transfer
+;
+MSG_DB_RESEARCH (//)
+Research
+;
+MSG_DB_SHARED (//)
+Shared
+;
+MSG_DB_PREFS (//)
+Preferences
+;
+MSG_SE_TITLE (//)
+Server List
+;
+MSG_SE_SUMMARY (//)
+Our gateway to the Edonkey network
+;
+MSG_SE_SERVERLIST (//)
+Server List
+;
+MSG_SE_NB_SERVERLIST (//)
+Server List (%d)
+;
+MSG_SE_NEWSERVER (//)
+New server
+;
+MSG_SE_NEWSERVER_IP (//)
+IP
+;
+MSG_SE_NEWSERVER_PORT (//)
+Port
+;
+MSG_SE_NEWSERVER_NAME (//)
+Name
+;
+MSG_SE_NEWSERVER_ADD (//)
+Add server
+;
+MSG_SE_UPDATE_MET (//)
+Update server.met since URL
+;
+MSG_SE_UPDATE (//)
+Update
+;
+MSG_SE_MYINFOS (//)
+My infos
+;
+MSG_SE_NAME (//)
+Name
+;
+MSG_SE_IP (//)
+IP
+;
+MSG_SE_DESCRIPTION (//)
+Description
+;
+MSG_SE_PING (//)
+Ping
+;
+MSG_SE_USERS (//)
+Users
+;
+MSG_SE_MAXUSERS (//)
+Max Users
+;
+MSG_SE_FILES (//)
+Files
+;
+MSG_SE_PREFS (//)
+Prefs
+;
+MSG_SE_FAILED (//)
+Failed
+;
+MSG_SE_STATIC (//)
+Static
+;
+MSG_SE_SOFTFILES (//)
+SoftFiles
+;
+MSG_SE_HARDFILES (//)
+HardFiles
+;
+MSG_SE_VERSION (//)
+Version
+;
+MSG_SE_LOWIDUSERS (//)
+LowIDUsers
+;
+MSG_SE_INFOS (//)
+Server infos
+;
+MSG_SE_LOG (//)
+Log
+;
+MSG_SE_LOWPRI (//)
+Low
+;
+MSG_SE_NORMALPRI (//)
+Normal
+;
+MSG_SE_HIGHPRI (//)
+High
+;
+MSG_SE_CTXT_CONNECT (//)
+Connect to this server
+;
+MSG_SE_CTXT_PRIORITY (//)
+Priority
+;
+MSG_SE_CTXT_LISTADD (//)
+Add to the list of static servers
+;
+MSG_SE_CTXT_LISTREMOVE (//)
+Remove to the list of static servers
+;
+MSG_SE_CTXT_ERASE (//)
+Erase this server
+;
+MSG_RS_TITLE (//)
+Research List
+;
+MSG_RS_SUMMARY (//)
+The Ali Baba cave of the network Edonkey
+;
+MSG_RS_SEARCHPARAMS (//)
+Search parameters
+;
+MSG_RS_FILENAME (//)
+File name
+;
+MSG_RS_FILETYPE (//)
+File type
+;
+MSG_RS_START (//)
+Start
+;
+MSG_RS_ABORT (//)
+Abort
+;
+MSG_RS_REMOVEALL (//)
+Erase all
+;
+MSG_RS_SEARCHRESULTS (//)
+Search results
+;
+MSG_RS_NAME (//)
+File name
+;
+MSG_RS_SIZE (//)
+Size
+;
+MSG_RS_AVAILABILITY (//)
+Availability
+;
+MSG_RS_FULL (//)
+Full
+;
+MSG_RS_TYPE (//)
+Type
+;
+MSG_RS_ARTIST (//)
+Artist
+;
+MSG_RS_ALBUM (//)
+Album
+;
+MSG_RS_ALBUM_TITLE (//)
+Title
+;
+MSG_RS_DURATION (//)
+Duration
+;
+MSG_RS_RATE (//)
+Rate
+;
+MSG_RS_CODEC (//)
+Codec
+;
+MSG_RS_KNOWN (//)
+Known
+;
+MSG_DLUL_TITLE (//)
+List of receipts and emissions
+;
+MSG_DLUL_SUMMARY (//)
+Receive and exchange your files freely
+;
+MSG_DL_TITLE (//)
+Downloads
+;
+MSG_DL_NAME (//)
+Name
+;
+MSG_DL_SIZE (//)
+Size
+;
+MSG_DL_DONE (//)
+Done
+;
+MSG_DL_SPEED (//)
+Speed
+;
+MSG_DL_PROGRESS (//)
+Progress
+;
+MSG_DL_SOURCE (//)
+Source
+;
+MSG_DL_PRIORITY (//)
+Priority
+;
+MSG_DL_STATUS (//)
+Status
+;
+MSG_DL_REMAINING (//)
+Remaining
+;
+MSG_DL_ADDTO (//)
+AddTo
+;
+MSG_UL_TITLE (//)
+Uploads
+;
+MSG_UL_NAME_USER (//)
+Name User
+;
+MSG_UL_FILE (//)
+File
+;
+MSG_UL_SPEED (//)
+Speed
+;
+MSG_UL_TRANSFERRED (//)
+Transferred
+;
+MSG_UL_EXCEPTED (//)
+Excepted
+;
+MSG_UL_SEND_TIME (//)
+Send Time
+;
+MSG_UL_STATUS (//)
+Status
+;
+MSG_UL_PARTS_OBTAINED (//)
+Parts obtained
+;
+MSG_SF_TITLE (//)
+List of shared files
+;
+MSG_SF_SUMMARY (//)
+Your treasures to share on the Edonkey network
+;
+MSG_SF_NAME (//)
+File name
+;
+MSG_SF_SIZE (//)
+Size
+;
+MSG_SF_TYPE (//)
+Type
+;
+MSG_SF_PRIORITY (//)
+Priority
+;
+MSG_SF_REQUESTS (//)
+Requests
+;
+MSG_SF_TRANSFERRED (//)
+Tranferred
+;
+MSG_SF_SHARED_PARTS (//)
+Shared parts
+;
+MSG_SF_COMPLETE (//)
+Complete
+;
+MSG_SF_SHARED_EDK (//)
+Share EDonkey
+;
+MSG_CO_TITLE (//)
+Configuration
+;
+MSG_CO_SUMMARY (//)
+Configuration of Bourriquet
+;
+MSG_CO_SAVE (//)
+Save
+;
+MSG_CO_USE (//)
+Use
+;
+MSG_CO_ABORT (//)
+Abort
+;
+MSG_CO_GENERAL (//)
+General
+;
+MSG_CO_GENERAL_USERNAME (//)
+User Name
+;
+MSG_CO_GENERAL_CLIENT_PORT (//)
+Client Port
+;
+MSG_CO_DIRECTORIES_TITLE (//)
+Directories
+;
+MSG_CO_DIRECTORIES_PATHS (//)
+Paths
+;
+MSG_CO_DIRECTORIES_INCOMING_PATHS (//)
+Incoming directory
+;
+MSG_CO_DIRECTORIES_TEMPORARY_PATHS (//)
+Temporary directory
+;
+MSG_CO_DIRECTORIES_SHARED_PATHS (//)
+Shared directory
+;
+MSG_CO_THEMES_TITLE (//)
+Themes
+;
+MSG_CO_THEMES_APPEARANCE (//)
+Appearance
+;
+MSG_CO_THEMES_ACTIVATE (//)
+Activate theme
+;
+MSG_CO_THEMES_PREVIEW (//)
+Preview
+;
+MSG_CO_THEMES_AUTHOR (//)
+Author
+;
+MSG_CO_THEMES_URL (//)
+Url
+;
+MSG_CO_THEMES_INFORMATION (//)
+Information
+;
+MSG_CO_UPDATE_TITLE (//)
+Update
+;
+MSG_CO_UPDATE_ALL (//)
+Updating the application and its components
+;
+MSG_CO_UPDATE_FREQUENCY (//)
+Update check frequency
+;
+MSG_CO_UPDATE_FREQUENCY_NEVER (//)
+Never
+;
+MSG_CO_UPDATE_FREQUENCY_DAILY (//)
+Daily
+;
+MSG_CO_UPDATE_FREQUENCY_WEEKLY (//)
+Weekly
+;
+MSG_CO_UPDATE_FREQUENCY_MONTHLY (//)
+Monthly
+;
+MSG_CO_UPDATE_SEARCH (//)
+Search Now
+;
+MSG_CN_ABORT (//)
+Abort
+;
+NUM_OF_MSGS (//)
+end
+;

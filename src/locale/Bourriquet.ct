@@ -1,0 +1,740 @@
+## version $VER: Bourriquet.catalog 1.0 (28.09.2024)
+## codeset 0
+## language français
+;## version $VER: Bourriquet.catalog 1.00 (28.09.2024)
+;## language english 
+;## codeset 0
+;
+MSG_MA_PROJECT
+Projet
+; Project
+;
+MSG_MA_ABOUT
+Au sujet de Bourriquet...
+; About Bourriquet...
+;
+MSG_MA_ABOUT_MUI
+Au sujet de MUI...
+; About MUI...
+;
+MSG_PROJECT_ABOUT
+Au sujet de Bourriquet...
+; About Bourriquet...
+;
+MSG_SETTINGS_MUI
+M\000MUI...
+; M\000MUI...
+;
+MSG_HIDE
+Cacher...
+; Hide
+;
+MSG_QUIT
+Quitter...
+; Quit
+;
+MSG_COPYRIGHT1
+\nBourriquet \n (Emule pour MorphOS)\nCopyright 2024 digitally\n
+; \nBourriquet \n (Emule for MorphOS)\nCopyright © 2024 digitally\n
+;
+MSG_VERSION
+Bourriquet Version 
+; Version Bourriquet
+;
+MSG_COMPILATION_DATE
+Date de compilation :
+; Compilation date :
+;
+MSG_COPYRIGHT2
+Ce programme est un logiciel gratuit\n
+; This program is free software\n
+;
+MSG_USED_SOFTWARE
+Cette application utilise les logiciels tierces suivants :\n
+; This program is free software\n
+;
+MSG_APPLICATION_DESCRIPTION
+Emule pour MorphOS
+; Emule for MorphOS
+;
+MSG_OK
+_Ok
+; _Ok
+;
+MSG_CANCEL
+_Annuler
+; _Cancel
+;
+MSG_YES
+_Oui
+; _Yes
+;
+MSG_NO
+_Non
+; _No
+;
+MSG_CREATING_GUI
+Création de linterface utilisateur...
+; Creating user interface...
+;
+MSG_INIT_LIBS
+Initialisation des bibliothèques...
+; Initialising libraries...
+;
+MSG_INIT_TIMER
+Initialisation de la minuterie...
+; Initialize timer
+;
+MSG_LOADING_GFX
+Chargement des graphismes...
+; Loading graphics...
+;
+MSG_LOADING_CONFIG
+Chargement de la configuration...
+; Loading configuration...
+;
+MSG_NO_MCC
+Bourriquet ne pourra pas ouvrir la classe MUI personnalisée %s V%lu.%lu.\n Cette classe nest pas installée.
+; Couldnt open MUI custom class %s V%lu.%lu.\nThe class is not installed.
+;
+MSG_MCC_OLD
+Bourriquet ne pourra pas ouvrir la classe MUI personnalisée %s V%lu.%lu. La version courante est la V%lu.%lu, veuillez lupgrader !
+; Couldnt open MUI custom class %s V%lu.%lu.\n\nCurrently installed is V%lu.%lu, please upgrade!
+;
+MSG_MCC_IN_USE
+Bourriquet ne pourra pas ouvrir la classe MUI personnalisée %s V%lu.%lu. La version courante est la V%lu.%lu, veuillez lupgrader !
+; Couldnt open MUI custom class %s V%lu.%lu.\n\nCurrently installed is V%lu.%lu, please upgrade!
+;
+MSG_RETRY_QUIT_GAD
+Essayer encore|Quitter
+; Try again|Quit
+;
+MSG_OPENING_GUI
+Ouverture de linterface utilisateur...
+; Opening user interface...
+;
+MSG_QuitANGReq
+Voulez vous réellement quitter Bourriquet ?
+; Do you really want to quit Bourriquet ?
+; 
+MSG_CONFIRM_REQ
+Requête de confirmation
+; Confirmation request
+;
+MSG_YES_NO_REQ
+*_Oui|_Non
+; *_Yes|_No
+;
+MSG_WINDOW_TITLE
+Bourriquet %s
+; Bourriquet %s
+;
+MSG_BT_QUIT
+Quitter
+; Quit
+;
+MSG_ERROR_STARTUP
+Erreur pendant le démarrage
+; Error during startup
+;
+MSG_ERROR_LIB
+Bourriquet ne peut pas ouvrir %s V%lu.%lu
+; Cant open %s, version v%lu.%lu
+; LIBRARY_NAME, LIBRARY_VERSION, LIBRARY_REVISION
+;
+MSG_ERROR_MUI_APPLICATION
+Bourriquet ne peut pas créer lapplication
+; Bourriquet cant create a apllication
+;
+MSG_ERROR_CLASSES
+Bourriquet ne peut pas créer les classes MUI personnalisées
+; Bourriquet cant create MUI custom classes
+;
+MSG_ERROR_TIMER
+Bourriquet ne peut pas initialiser la minuterie
+; Bourriquet cant init timer
+;
+MSG_ERROR_TASK
+Bourriquet ne peut pas initialiser les tâches
+; Bourriquet cant init task
+;
+MSG_ERROR_SIGNAL
+Bourriquet ne peut pas initialiser les signaux
+; Bourriquet cant init signal
+;
+MSG_ERROR_METHODSTASK
+Bourriquet ne peut pas initialiser la methodtask
+; Bourriquet cant init methodtask
+;
+MSG_ERROR_THREADS
+Bourriquet ne peut pas initialiser les threads
+; Bourriquet cant init threads
+;
+MSG_ERROR_LIB_URL
+Bourriquet ne peut pas trouver les bibliothèques %s V%lu.%lu %s
+; Bourriquet cant find url lib %s, V%lu.%lu %s
+; LIBRARY_NAME, LIBRARY_VERSION, LIBRARY_REVISION, URL_HOMEPAGE
+;
+MSG_ERROR_CREATE_SEMAPHORE
+Bourriquet ne peut pas créer de sémaphore
+; Bourriquet cant create semaphore
+;
+MSG_RETRY_HOMEPAGE_QUIT_GAD
+Quitter la page dacceuil
+; Quit home page
+;
+MSG_ABOUT_CURRENT_DEVELOPERS
+Developpeurs suivants:
+; Current Developers:
+;
+MSG_ABOUT_CONTRIBUTORS
+Contributeurs:
+; Contributors:
+;
+MSG_ABOUT_LOCALIZATION_CONTRIBUTORS
+Contributeurs par pays:
+; Localization Contributors:
+;
+MSG_ABOUT_GPL
+Ce programme est un logiciel libre;\nVous êtes le bienvenu(e) pour le distribuer ou le modifier sous les termes de la\n licence publique GNU. Voir les documents pour\n plus de détails.
+; This program is free software; youre welcome to\ndistribute and or modify it under the terms of the\nGNU Public License. See the enclosed documents for\nmore details.
+;
+MSG_ABOUT_3RD_PARTY_SOFTWARE
+Ce programme utilise les logiciels tiers suivants:
+; This program uses the following third party software:
+;
+MSG_ABOUT_KITTY_NEWS
+Les dernières nouveautés concernant Bourriquet peuvent être trouvées sur le \n Support du site de Bourriquet \\0335http:///\033n
+; The latest news about Bourriquet can be found at the\nBourriquet Support Site at \\0335http:///\\033n
+;
+MSG_ABOUTKITTY
+Au sujet de Bourriquet
+; About Bourriquet
+;
+MSG_SHUTDOWN
+Fermeture de Bourriquet...
+; Shutting down Bourriquet...
+;
+MSG_THREAD_EXIT_WARNING_TITLE
+Avertissement de Bourriquet
+;Bourriquet warning...
+;
+MSG_THREAD_EXIT_WARNING
+Lors de la tentative de nettoyage de Bourriquet, des sous-processus\nen cours d'exécution ont été trouvés.\nVoulez-vous réessayer de quitter Bourriquet\nou ignorer les sous-processus en cours (ce qui peut amener\npar la suite à des plantages) ?
+;While trying to cleanup Bourriquet still running sub threads\n
+;have been found.\n
+;Do you want to retry to quit Bourriquet or ignore the still\n
+;running sub thread (which could end up in later crashes)?
+;
+MSG_THREAD_EXIT_WARNING_BT
+_Réessayer|_Ignorer
+;_Retry|_Ignore
+;
+MSG_DB_CONNECT
+Connexion
+; Connect
+;
+MSG_DB_DISCONNECT
+Déconnexion
+; Disconnect
+;
+MSG_DB_SERVER
+Serveur
+; Server
+;
+MSG_DB_TRANSFER
+Transfert
+; Transfer
+;
+MSG_DB_RESEARCH
+Recherche
+; Research
+;
+MSG_DB_SHARED
+Partage
+; Shared
+;
+MSG_DB_PREFS
+Configuration
+; Preferences
+;
+MSG_SE_TITLE
+Liste des serveurs
+; Server List
+;
+MSG_SE_SUMMARY
+Notre porte dentrée sur le réseau Edonkey
+; Our gateway to the Edonkey network
+;
+MSG_SE_SERVERLIST
+Liste des serveurs
+; Server List
+;
+MSG_SE_NB_SERVERLIST
+Liste des serveurs (%d)
+; Server List (%d)
+;
+MSG_SE_NEWSERVER
+Nouveau serveur
+; New server
+;
+MSG_SE_NEWSERVER_IP
+IP
+; IP
+;
+MSG_SE_NEWSERVER_PORT
+Port
+; Port
+;
+MSG_SE_NEWSERVER_NAME
+Nom
+; Name
+;
+MSG_SE_NEWSERVER_ADD
+Ajouter serveur
+; Add server
+;
+MSG_SE_UPDATE_MET
+Actualiser server.met depuis lURL
+; Update server.met since URL
+;
+MSG_SE_UPDATE
+Actualiser
+; Update
+;
+MSG_SE_MYINFOS
+Mes infos
+; My infos
+;
+MSG_SE_NAME
+Nom
+; Name
+;
+MSG_SE_IP
+IP
+; IP
+;
+MSG_SE_DESCRIPTION
+Description
+; Description
+;
+MSG_SE_PING
+Ping
+; Ping
+;
+MSG_SE_USERS
+Utilisateurs
+; Users
+;
+MSG_SE_MAXUSERS
+Max dutilisateurs
+; Max Users
+;
+MSG_SE_FILES
+Fichiers
+; Files
+;
+MSG_SE_PREFS
+Prefs
+; Prefs
+;
+MSG_SE_FAILED
+Echec
+; Failed
+;
+MSG_SE_STATIC
+Statique
+; Static
+;
+MSG_SE_SOFTFILES
+Limite basse de fichiers
+; SoftFiles
+;
+MSG_SE_HARDFILES
+Limite haute de fichiers
+; HardFiles
+;
+MSG_SE_VERSION
+Version
+; Version
+;
+MSG_SE_LOWIDUSERS
+LowID
+; LowIDUsers
+;
+MSG_SE_INFOS
+Infos du serveur
+; Server infos
+;
+MSG_SE_LOG
+Journal
+; Log
+;
+MSG_SE_LOWPRI
+Basse
+; Low
+;
+MSG_SE_NORMALPRI
+Normale
+; Normal
+;
+MSG_SE_HIGHPRI
+Haute
+; High
+;
+MSG_SE_CTXT_CONNECT
+Se connecter à ce serveur
+; Connect to this server
+;
+MSG_SE_CTXT_PRIORITY
+Priorité
+; Priority
+;
+MSG_SE_CTXT_LISTADD
+Ajouter à la liste des serveurs statiques
+; Add to the list of static servers
+;
+MSG_SE_CTXT_LISTREMOVE
+Enlever de la liste des serveurs statiques
+; Remove to the list of static servers
+;
+MSG_SE_CTXT_ERASE
+Supprimer ce serveur
+; Erase this server
+;
+MSG_RS_TITLE
+Liste des recherches
+; Research List
+;
+MSG_RS_SUMMARY
+La caverne dAli Baba du réseau Edonkey
+; The Ali Baba cave of the network Edonkey
+;
+MSG_RS_SEARCHPARAMS
+Paramètres de recherche
+; Search parameters
+;
+MSG_RS_FILENAME
+Nom du fichier
+; File name
+;
+MSG_RS_FILETYPE
+Type de fichier
+; File type
+;
+MSG_RS_START
+Démarrer
+; Start
+;
+MSG_RS_ABORT
+Abandonner
+; Abort
+;
+MSG_RS_REMOVEALL
+Tout effacer
+; Erase all
+;
+MSG_RS_SEARCHRESULTS
+Résultats de recherche
+; Search results
+;
+MSG_RS_NAME
+Nom du fichier
+; File name
+;
+MSG_RS_SIZE
+Taille
+; Size
+;
+MSG_RS_AVAILABILITY
+Disponibilité
+; Availability
+;
+MSG_RS_FULL
+Complets
+; Full
+;
+MSG_RS_TYPE
+Type
+; Type
+;
+MSG_RS_ARTIST
+Artiste
+; Artist
+;
+MSG_RS_ALBUM
+Album
+; Album
+;
+MSG_RS_ALBUM_TITLE
+Titre
+; Title
+;
+MSG_RS_DURATION
+Durée
+; Duration
+;
+MSG_RS_RATE
+Débit
+; Rate
+;
+MSG_RS_CODEC
+Codec
+; Codec
+;
+MSG_RS_KNOWN
+Connu
+; Known
+;
+MSG_DLUL_TITLE
+Liste des réceptions et des émissions
+; List of receipts and emissions
+;
+MSG_DLUL_SUMMARY
+Réceptionner et échanger vos fichiers en toute liberté
+; Receive and exchange your files freely
+;
+MSG_DL_TITLE
+Réceptions
+; Downloads
+;
+MSG_DL_NAME
+Nom
+; Name
+;
+MSG_DL_SIZE
+Taille
+; Size
+;
+MSG_DL_DONE
+Fait
+; Done
+;
+MSG_DL_SPEED
+Vitese
+; Speed
+;
+MSG_DL_PROGRESS
+Progression
+; Progress
+;
+MSG_DL_SOURCE
+Sources
+; Source
+;
+MSG_DL_PRIORITY
+Priorité
+; Priority
+;
+MSG_DL_STATUS
+Status
+; Status
+;
+MSG_DL_REMAINING
+Restants
+; Remaining
+;
+MSG_DL_ADDTO
+Ajouté le
+; AddTo
+;
+MSG_UL_TITLE
+Réceptions
+; Uploads
+;
+MSG_UL_NAME_USER
+Nom de l'utilisateur
+; Name User
+;
+MSG_UL_FILE
+Fichier
+; File
+;
+MSG_UL_SPEED
+Vitesse
+; Speed
+;
+MSG_UL_TRANSFERRED
+Transféré
+; Transferred
+;
+MSG_UL_EXCEPTED
+Attendu
+; Excepted
+;
+MSG_UL_SEND_TIME
+Temps d'envoi
+; Send Time
+;
+MSG_UL_STATUS
+Status
+; Status
+;
+MSG_UL_PARTS_OBTAINED
+Parties obtenues
+; Parts obtained
+;
+MSG_SF_TITLE
+Liste des fichiers partagés
+; List of shared files
+;
+MSG_SF_SUMMARY
+Vos trésors à échanger sur le réseau Edonkey
+; Your treasures to share on the Edonkey network
+;
+MSG_SF_NAME 
+Nom du fichier
+;File name
+;
+MSG_SF_SIZE
+Taille
+;Size
+;
+MSG_SF_TYPE 
+Type
+;Type
+;
+MSG_SF_PRIORITY 
+Priorité
+;Priority
+;
+MSG_SF_REQUESTS 
+Demandes
+;Requests
+;
+MSG_SF_TRANSFERRED 
+Transféré
+;Tranferred
+;
+MSG_SF_SHARED_PARTS 
+Parties partagées
+;Shared parts
+;
+MSG_SF_COMPLETE
+Complets
+;Complete
+;
+MSG_SF_SHARED_EDK 
+Partage EDonkey
+;Share EDonkey
+;
+MSG_CO_TITLE 
+Configuration
+; Configuration
+;
+MSG_CO_SUMMARY
+Configuration de Bourriquet
+; Configuration of Bourriquet
+;
+MSG_CO_SAVE 
+Sauvegarder
+;Save
+;
+MSG_CO_USE
+Utiliser
+;Use
+;
+MSG_CO_ABORT
+Annuler
+;Abort
+;
+MSG_CO_GENERAL
+Général
+;General
+;
+MSG_CO_GENERAL_USERNAME
+Nom d'utilisateur 
+;User name
+;
+MSG_CO_GENERAL_CLIENT_PORT
+Port client
+;Client Port
+;
+MSG_CO_DIRECTORIES_TITLE 
+Répertoires
+;Directories
+;
+MSG_CO_DIRECTORIES_PATHS
+Chemins
+;Paths
+;
+MSG_CO_DIRECTORIES_INCOMING_PATHS
+Répertoire fichiers entrants
+;Incoming directory
+;
+MSG_CO_DIRECTORIES_TEMPORARY_PATHS
+Répertoire fichiers temporaires
+;Temporary directory
+;
+MSG_CO_DIRECTORIES_SHARED_PATHS
+Répertoire fichiers à partager
+;Shared directory
+;
+MSG_CO_THEMES_TITLE 
+Thèmes
+;Themes
+;
+MSG_CO_THEMES_APPEARANCE
+Apparence
+;Appearance
+;
+MSG_CO_THEMES_ACTIVATE 
+Activer le thème
+;Activate theme
+;
+MSG_CO_THEMES_PREVIEW 
+Prévisualisation
+;Preview
+;
+MSG_CO_THEMES_AUTHOR 
+Auteur
+;Author
+;
+MSG_CO_THEMES_URL
+Url
+;Url
+;
+MSG_CO_THEMES_INFORMATION
+Informations
+;Information
+;
+MSG_CO_UPDATE_TITLE
+Mise à jour
+;Update
+;
+MSG_CO_UPDATE_ALL
+Mise à jour de l'application et ses composants
+;Updating the application and its components
+;
+MSG_CO_UPDATE_FREQUENCY
+Fréquence de mise à jour 
+;Update check frequency
+;
+MSG_CO_UPDATE_FREQUENCY_NEVER
+Jamais
+;Never
+;
+MSG_CO_UPDATE_FREQUENCY_DAILY
+Journalier
+;Daily
+;
+MSG_CO_UPDATE_FREQUENCY_WEEKLY
+Hebdomadaire
+;Weekly
+;
+MSG_CO_UPDATE_FREQUENCY_MONTHLY
+Mensuel
+;Monthly
+;
+MSG_CO_UPDATE_SEARCH
+Rechercher maintenant
+;Search Now
+;
+MSG_CN_ABORT
+Annuler
+; Abort
+;
+NUM_OF_MSGS
+End
+; end
+;
